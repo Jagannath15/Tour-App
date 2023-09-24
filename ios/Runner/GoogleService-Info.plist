@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>375028742957-aqk4bo8fspmddjmlv31k5lj3pdpj8bqk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.375028742957-aqk4bo8fspmddjmlv31k5lj3pdpj8bqk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCuVKfrN_eRBom9BjEORwQaflChAgQeB-M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>375028742957</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.touristApp</string>
+	<key>PROJECT_ID</key>
+	<string>tourist-app-8112d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tourist-app-8112d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:375028742957:ios:4d87ba7efb06dd8e72b1a4</string>
+</dict>
+</plist>
